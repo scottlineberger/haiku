@@ -1,0 +1,167 @@
+[
+  {
+    "id":1,
+    "era": "Edo",
+    "poets":[
+        {
+          "kanji": "山崎宗鑑",
+          "Romaji": "Yamazaki Sōkan",
+          "Dates": "?-d. 1539-41",
+          "School": "Muromachi",
+          "Notes": "Founder of haiku",
+          "image": "https://3.bp.blogspot.com/-PFjYMAfQpYU/TiUKOqi5r3I/AAAAAAAAZ5Q/KEwO5h1aqpw/s320/Yamazaki%2BSokan.jpg"
+        },
+        {
+          "kanji": "荒木田守武",
+          "Romaji": "Arakida Moritake",
+          "Dates": "1473 –1549 ",
+          "School": "Muromachi",
+          "Notes": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Moritake.jpg"
+        },
+        {
+          "kanji": "斎藤徳元",
+          "Romaji": "Saitō Tokugin",
+          "Dates": "1559 - 1647",
+          "School": "Teimon",
+          "Notes": "",
+          "image": "https://livedoor.blogimg.jp/nobunaga_1534/imgs/a/0/a06ddf8c-s.jpg"
+        },
+        {
+          "kanji": "松永貞徳",
+          "Romaji": "Matsunaga Teitoku",
+          "Dates": "1571-1654",
+          "School": "Teimon",
+          "Notes": "",
+			 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Matsunaga_Teitoku.jpg/330px-Matsunaga_Teitoku.jpg"
+        },
+        {
+          "kanji": "高島玄札",
+          "Romaji": "Takashima Gensatsu",
+          "Dates": "1594-1676",
+          "School": "2. Teimon",
+          "Notes": "",
+			 "image": "data:image/jpeg;base64,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"
+        },
+        {
+          "kanji": "野々口立圃",
+          "Romaji": "Nonoguchi Ryūho",
+          "Dates": "1595-1669",
+          "School": "2. Teimon",
+          "Notes": "",
+			 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Nonoguchi_Ry%C5%ABho_Surimono.jpg/1200px-Nonoguchi_Ry%C5%ABho_Surimono.jpg?20230619103819"
+        },
+        {
+          "kanji": "松江重頼",
+          "Romaji": "Matsue Shigeyori",
+          "Dates": "1602-1680 ",
+          "School": "2. Teimon",
+          "Notes": ""
+        },
+        {
+          "kanji": "山本西武",
+          "Romaji": "Yamamoto Saimu ",
+          "Dates": "1610 – 1682 ",
+          "School": "2. Teimon",
+          "Notes": ""
+        },
+        {
+          "kanji": "安原貞室",
+          "Romaji": "Yasuhara Teishitsu",
+          "Dates": "1610-1673",
+          "School": "2. Teimon",
+          "Notes": ""
+        },
+        {
+          "kanji": "北村 季吟",
+          "Romaji": "Kitamura Kigin",
+          "Dates": "1625-1705",
+          "School": "2. Teimon",
+          "Notes": ""
+        },
+        {
+          "kanji": "田捨女",
+          "Romaji": "Den Sutejo ",
+          "Dates": "1633-1698",
+          "School": "2. Teimon",
+          "Notes": ""
+        },
+        {
+          "kanji": "井原西鶴",
+          "Romaji": "Ihara Saikaku",
+          "Dates": "1642—1693",
+          "School": "3. Danrin",
+          "Notes": ""
+        },
+        {
+          "kanji": "松尾芭蕉",
+          "Romaji": "Matsuo Bashō",
+          "Dates": "1644 – 1694 ",
+          "School": "4. Shōmon",
+          "Notes": ""
+        },
+        {
+          "kanji": "向井去来",
+          "Romaji": "Mukai Kyorai",
+          "Dates": "1651—1704",
+          "School": "4. Shōmon",
+          "Notes": ""
+        },
+        {
+          "kanji": "服部嵐雪",
+          "Romaji": "Hattori Ransetsu",
+          "Dates": "1654—1707",
+          "School": "4. Shōmon",
+          "Notes": ""
+        },
+        {
+          "kanji": "宝井其角",
+          "Romaji": "Takarai Kikaku",
+          "Dates": "1661—1707",
+          "School": "4. Shōmon",
+          "Notes": ""
+        },
+        {
+          "kanji": "与謝 蕪村 ",
+          "Romaji": "Yosa Buson ",
+          "Dates": "1716 – 1784 ",
+          "School": "",
+          "Notes": ""
+        },
+        {
+          "kanji": "小林一茶",
+          "Romaji": "Kobayashi Issa",
+          "Dates": "1763 – 1827",
+          "School": "",
+          "Notes": ""
+        },
+        {
+          "kanji": "桜井梅室",
+          "Romaji": "Sakurai Baishitsu",
+          "Dates": "1769-1852 ",
+          "School": "",
+          "Notes": ""
+        }
+      ]
+  },
+        {
+          "id":2,
+          "era": "Modern",
+          "poets":[
+                {
+                  "kanji": "小林一茶",
+                  "Romaji": "Kobayashi Issa",
+                  "Dates": "1763 – 1827",
+                  "School": "",
+                  "Notes": ""
+                },
+                {
+                  "kanji": "桜井梅室",
+                  "Romaji": "Sakurai Baishitsu",
+                  "Dates": "1769-1852 ",
+                  "School": "",
+                  "Notes": ""
+                }
+          ]
+        }
+      ]
