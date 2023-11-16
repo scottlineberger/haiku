@@ -56,28 +56,24 @@
           "Romaji": "Matsue Shigeyori",
           "Dates": "1602-1680 ",
           "School": "2. Teimon",
-          "Notes": ""
-        },
-        {
-          "kanji": "山本西武",
-          "Romaji": "Yamamoto Saimu ",
-          "Dates": "1610 – 1682 ",
-          "School": "2. Teimon",
-          "Notes": ""
+          "Notes": "",
+			 "image": "https://stat.ameba.jp/user_images/20171109/11/kawamuraissinnkarate/e6/97/j/o0236021314066581784.jpg?caw=800"
         },
         {
           "kanji": "安原貞室",
           "Romaji": "Yasuhara Teishitsu",
           "Dates": "1610-1673",
           "School": "2. Teimon",
-          "Notes": ""
+          "Notes": "",
+			 "image": "https://4.bp.blogspot.com/_AdeUgwXpSAM/TOnCo04dd6I/AAAAAAAAWTU/wknTEQRGQPA/s400/chigetsu%2Bportrait.jpg"
         },
         {
           "kanji": "北村 季吟",
           "Romaji": "Kitamura Kigin",
           "Dates": "1625-1705",
           "School": "2. Teimon",
-          "Notes": ""
+          "Notes": "",
+			 "image": ""
         },
         {
           "kanji": "田捨女",
@@ -149,18 +145,20 @@
           "era": "Modern",
           "poets":[
                 {
-                  "kanji": "小林一茶",
-                  "Romaji": "Kobayashi Issa",
-                  "Dates": "1763 – 1827",
+                  "kanji": "正岡子規",
+                  "Romaji": "Masaoka Shiki",
+                  "Dates": "1864―1902",
                   "School": "",
-                  "Notes": ""
-                },
+                  "Notes": "",
+						"image": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202209/img/img_12_03.jpg"
+					},
                 {
-                  "kanji": "桜井梅室",
-                  "Romaji": "Sakurai Baishitsu",
+                  "kanji": "高浜虚子",
+                  "Romaji": "Takahama Kyoshi",
                   "Dates": "1769-1852 ",
                   "School": "",
-                  "Notes": ""
+                  "Notes": "",
+						"image": "http://img-cdn.jg.jugem.jp/78f/3854813/20180614_1669150.png"
                 }
           ]
         }
